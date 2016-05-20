@@ -8,8 +8,10 @@ public class LocalInnerClass {
 	private int a = 90;
 	
 	private void display(){
-		// Local variable can't be private, protect or default.
-	    int u = 160;
+		
+		// Local variable can't be private, protect or default.    
+		int u = 160;
+		
 		class LocalClass {
 			void printMe(){
 				System.out.println(a);
