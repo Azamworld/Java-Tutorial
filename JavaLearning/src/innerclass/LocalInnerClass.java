@@ -9,7 +9,7 @@ public class LocalInnerClass {
 	
 	private void display(){
 		// Local variable can't be private, protect or default.
-	    int u = 100;
+	    int u = 160;
 		class LocalClass {
 			void printMe(){
 				System.out.println(a);
