@@ -7,7 +7,7 @@ import java.util.Set;
 /*
  * LinkedHashSet is child of Set interface.
  * # Duplicate is not allowed.
- * # Insertion is preserved.
+ * # Insertion order is preserved.
  * # Implements Serializable, Cloneable etc.
  * # Initial value is 16.
  * # Load factor is 0.75.

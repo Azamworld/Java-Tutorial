@@ -7,7 +7,7 @@ import java.util.Set;
 /*
  * HashSet is child of Set interface. 
  * # Unique value is stored. 
- * # Insertion is not preserved. 
+ * # Insertion order is not preserved. 
  * # Implements Serializable, Cloneable etc.
  * # Initial capacity is 16.
  * # Load factor is 0.75.
