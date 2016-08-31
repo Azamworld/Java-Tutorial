@@ -1,5 +1,7 @@
 package innerclass;
 
+import innerclass.MyTesting.View;
+
 public class AnonymousInnerClass {
     
 	
@@ -14,6 +16,8 @@ public class AnonymousInnerClass {
 			}
 		};
 		person.eat();
+		
+		
 	}
 
 }

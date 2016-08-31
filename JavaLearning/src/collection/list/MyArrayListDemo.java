@@ -53,6 +53,7 @@ public class MyArrayListDemo  {
 			System.out.println("List size is: " + mList.size());
 
 	}
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		new MyArrayListDemo().listDemo();

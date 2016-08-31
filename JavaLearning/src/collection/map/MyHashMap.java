@@ -31,6 +31,7 @@ public class MyHashMap {
 		mMap.put("Key4", "D");
 		mMap.put("Key5", "E");
 		mMap.put("Key5", "E");
+		mMap.put("Key6", "E");
 	}
 	
 	private void printElements() {
